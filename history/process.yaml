@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/RS03AXPD-DP03A-01-CTDPFL304-recovered_inst-dpc_ctd_instrument_recovered
+data_stream: RS03AXPD-DP03A-01-CTDPFL304-recovered_inst-dpc_ctd_instrument_recovered
+end_date: '2020-10-17T14:20:13.873Z'
+last_updated: '2021-03-04T21:23:33.686939Z'
+start_date: '2014-08-10T04:39:24.208Z'
+status: pending
